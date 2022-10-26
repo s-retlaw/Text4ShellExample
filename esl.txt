@@ -3,5 +3,5 @@ ${date:yyyy-MM-dd} : %24%7Bdate%3Ayyyy-MM-dd%7D
 ${url:utf-8:http://example.com} : %24%7Burl%3Autf-8%3Ahttp%3A%2F%2Fexample.com%7D
 ${env:SHELL} : %24%7Benv%3ASHELL%7D
 
-${dns:cvs.com} : %24%7Bdns%3Acvs.com%7D
+${dns:example.com} : %24%7Bdns%3Aexample.com%7D
 
